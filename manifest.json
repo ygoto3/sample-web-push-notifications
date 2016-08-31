@@ -1,0 +1,4 @@
+{
+  "name": "Sample Project for Web Push Notification",
+  "gcm_sender_id": "{Firebase CLOUD MESSAGING Sender ID}"
+}
